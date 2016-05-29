@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>1Q86</title>
+  <subtitle>TOP 601 STUDIO</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://1q86.github.io/"/>
+  <updated>2016-05-29T11:27:04.851Z</updated>
+  <id>https://1q86.github.io/</id>
+  
+  <author>
+    <name>Roc</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Graduation</title>
+    <link href="https://1q86.github.io/2016/05/20/Graduation/"/>
+    <id>https://1q86.github.io/2016/05/20/Graduation/</id>
+    <published>2016-05-20T14:26:32.000Z</published>
+    <updated>2016-05-29T11:27:04.851Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="SJTU" scheme="https://1q86.github.io/tags/SJTU/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pentium IV</title>
+    <link href="https://1q86.github.io/2016/04/19/Pentium-IV/"/>
+    <id>https://1q86.github.io/2016/04/19/Pentium-IV/</id>
+    <published>2016-04-19T13:57:12.000Z</published>
+    <updated>2016-04-19T13:58:13.118Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Milestone" scheme="https://1q86.github.io/categories/Milestone/"/>
+    
+    
+      <category term="Day" scheme="https://1q86.github.io/tags/Day/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SJTU 120</title>
+    <link href="https://1q86.github.io/2016/04/08/SJTU-120/"/>
+    <id>https://1q86.github.io/2016/04/08/SJTU-120/</id>
+    <published>2016-04-08T06:15:17.000Z</published>
+    <updated>2016-04-08T06:16:21.112Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Event" scheme="https://1q86.github.io/categories/Event/"/>
+    
+    
+      <category term="SJTU" scheme="https://1q86.github.io/tags/SJTU/"/>
+    
+      <category term="Day" scheme="https://1q86.github.io/tags/Day/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Leopard On-line</title>
+    <link href="https://1q86.github.io/2016/04/05/Leopard-On-line/"/>
+    <id>https://1q86.github.io/2016/04/05/Leopard-On-line/</id>
+    <published>2016-04-05T09:35:13.000Z</published>
+    <updated>2016-04-06T08:02:44.777Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Work" scheme="https://1q86.github.io/categories/Work/"/>
+    
+    
+      <category term="Wistron" scheme="https://1q86.github.io/tags/Wistron/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>India Currency</title>
+    <link href="https://1q86.github.io/2016/03/25/India-Currency/"/>
+    <id>https://1q86.github.io/2016/03/25/India-Currency/</id>
+    <published>2016-03-25T14:52:06.000Z</published>
+    <updated>2016-04-05T02:58:30.165Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Tech" scheme="https://1q86.github.io/categories/Tech/"/>
+    
+    
+      <category term="India Currency" scheme="https://1q86.github.io/tags/India-Currency/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Party Membership Dues</title>
+    <link href="https://1q86.github.io/2016/03/23/Party-Membership-Dues/"/>
+    <id>https://1q86.github.io/2016/03/23/Party-Membership-Dues/</id>
+    <published>2016-03-23T15:10:07.000Z</published>
+    <updated>2016-04-05T02:52:45.821Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Event" scheme="https://1q86.github.io/categories/Event/"/>
+    
+    
+      <category term="Party" scheme="https://1q86.github.io/tags/Party/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Half Marathon in Songjiang</title>
+    <link href="https://1q86.github.io/2016/03/20/Half-Marathon-in-Songjiang/"/>
+    <id>https://1q86.github.io/2016/03/20/Half-Marathon-in-Songjiang/</id>
+    <published>2016-03-20T13:28:23.000Z</published>
+    <updated>2016-04-04T13:39:56.317Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/marathon.jpg&quot; alt=&quot;Half Marathon in Songjiang&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Today I participated in the 1st Half-Marathon in Songjiang.&lt;/p&gt;
+&lt;p&gt;in 02:18:22, ranked 1700&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/marathon.jpg&quot; alt=&quot;Half Marathon in Songjiang&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Today I participated in the 1st Half-Marathon in Songjiang.&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="Sport" scheme="https://1q86.github.io/categories/Sport/"/>
+    
+    
+      <category term="Half Marathon" scheme="https://1q86.github.io/tags/Half-Marathon/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Auto Focus</title>
+    <link href="https://1q86.github.io/2016/03/04/Auto-Focus/"/>
+    <id>https://1q86.github.io/2016/03/04/Auto-Focus/</id>
+    <published>2016-03-04T14:54:09.000Z</published>
+    <updated>2016-04-05T02:57:28.587Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Project" scheme="https://1q86.github.io/categories/Project/"/>
+    
+    
+      <category term="jQuery" scheme="https://1q86.github.io/tags/jQuery/"/>
+    
+      <category term="Auto Focus" scheme="https://1q86.github.io/tags/Auto-Focus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Happy New Year 2016</title>
+    <link href="https://1q86.github.io/2016/02/08/Happy-New-Year-2016/"/>
+    <id>https://1q86.github.io/2016/02/08/Happy-New-Year-2016/</id>
+    <published>2016-02-08T15:05:06.000Z</published>
+    <updated>2016-04-04T15:09:09.735Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Event" scheme="https://1q86.github.io/categories/Event/"/>
+    
+    
+      <category term="Happy New Year" scheme="https://1q86.github.io/tags/Happy-New-Year/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Graduation Reply</title>
+    <link href="https://1q86.github.io/2016/01/08/Graduation-Reply/"/>
+    <id>https://1q86.github.io/2016/01/08/Graduation-Reply/</id>
+    <published>2016-01-08T15:01:18.000Z</published>
+    <updated>2016-04-04T15:04:17.172Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Milestone" scheme="https://1q86.github.io/categories/Milestone/"/>
+    
+    
+      <category term="SJTU" scheme="https://1q86.github.io/tags/SJTU/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tete is already 1 years old</title>
+    <link href="https://1q86.github.io/2015/12/16/Tete-is-already-1-years-old/"/>
+    <id>https://1q86.github.io/2015/12/16/Tete-is-already-1-years-old/</id>
+    <published>2015-12-16T14:15:03.000Z</published>
+    <updated>2016-04-04T14:22:49.631Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/Tete1yearsold.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Tete is already 1 years old.&lt;/p&gt;
+&lt;p&gt;Happy Birthday!&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/Tete1yearsold.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Tete is already 1 years old.&lt;/p&gt;
+&lt;p&gt;Happy Birthday!&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="Family" scheme="https://1q86.github.io/categories/Family/"/>
+    
+    
+      <category term="Day" scheme="https://1q86.github.io/tags/Day/"/>
+    
+      <category term="Tete" scheme="https://1q86.github.io/tags/Tete/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Happy Community System</title>
+    <link href="https://1q86.github.io/2015/11/04/The-Happy-Community-System/"/>
+    <id>https://1q86.github.io/2015/11/04/The-Happy-Community-System/</id>
+    <published>2015-11-04T14:40:58.000Z</published>
+    <updated>2016-04-05T03:00:10.758Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Project" scheme="https://1q86.github.io/categories/Project/"/>
+    
+    
+      <category term="Android" scheme="https://1q86.github.io/tags/Android/"/>
+    
+      <category term="HCS" scheme="https://1q86.github.io/tags/HCS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mr Robot</title>
+    <link href="https://1q86.github.io/2015/10/01/Mr-Robot/"/>
+    <id>https://1q86.github.io/2015/10/01/Mr-Robot/</id>
+    <published>2015-10-01T14:58:55.000Z</published>
+    <updated>2016-04-06T14:03:20.108Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/Mr Robot.jpg&quot; alt=&quot;Mr Robot&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/Mr Robot.jpg&quot; alt=&quot;Mr Robot&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="TV series" scheme="https://1q86.github.io/categories/TV-series/"/>
+    
+    
+      <category term="Mr Robot" scheme="https://1q86.github.io/tags/Mr-Robot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CMMI</title>
+    <link href="https://1q86.github.io/2015/08/21/CMMI/"/>
+    <id>https://1q86.github.io/2015/08/21/CMMI/</id>
+    <published>2015-08-21T14:30:38.000Z</published>
+    <updated>2016-04-05T08:32:23.716Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Certificate" scheme="https://1q86.github.io/categories/Certificate/"/>
+    
+    
+      <category term="CMMI" scheme="https://1q86.github.io/tags/CMMI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pulling weeds</title>
+    <link href="https://1q86.github.io/2015/08/01/Pulling-weeds/"/>
+    <id>https://1q86.github.io/2015/08/01/Pulling-weeds/</id>
+    <published>2015-08-01T04:52:02.000Z</published>
+    <updated>2016-04-04T14:02:05.475Z</updated>
+    
+    <content type="html">&lt;p&gt;Today Pulling weeds.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Today Pulling weeds.&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="Sport" scheme="https://1q86.github.io/categories/Sport/"/>
+    
+    
+      <category term="Labor" scheme="https://1q86.github.io/tags/Labor/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AngularJS</title>
+    <link href="https://1q86.github.io/2015/07/08/AngularJS/"/>
+    <id>https://1q86.github.io/2015/07/08/AngularJS/</id>
+    <published>2015-07-08T14:28:45.000Z</published>
+    <updated>2016-04-05T02:54:43.008Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Tech" scheme="https://1q86.github.io/categories/Tech/"/>
+    
+    
+      <category term="Web" scheme="https://1q86.github.io/tags/Web/"/>
+    
+      <category term="AngularJS" scheme="https://1q86.github.io/tags/AngularJS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sherlock</title>
+    <link href="https://1q86.github.io/2015/07/01/Sherlock/"/>
+    <id>https://1q86.github.io/2015/07/01/Sherlock/</id>
+    <published>2015-07-01T14:00:27.000Z</published>
+    <updated>2016-04-04T13:54:39.254Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="TV series" scheme="https://1q86.github.io/categories/TV-series/"/>
+    
+    
+      <category term="Sherlock" scheme="https://1q86.github.io/tags/Sherlock/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Automobile Shanghai 2015</title>
+    <link href="https://1q86.github.io/2015/04/25/Automobile-Shanghai-2015/"/>
+    <id>https://1q86.github.io/2015/04/25/Automobile-Shanghai-2015/</id>
+    <published>2015-04-25T14:06:58.000Z</published>
+    <updated>2016-04-04T13:21:14.211Z</updated>
+    
+    <content type="html">&lt;p&gt;Today went to Automobile Shanghai with Tete and Guo dong.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Today went to Automobile Shanghai with Tete and Guo dong.&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="Show" scheme="https://1q86.github.io/categories/Show/"/>
+    
+    
+      <category term="Auto" scheme="https://1q86.github.io/tags/Auto/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Focus</title>
+    <link href="https://1q86.github.io/2015/04/04/Focus/"/>
+    <id>https://1q86.github.io/2015/04/04/Focus/</id>
+    <published>2015-04-04T14:39:18.000Z</published>
+    <updated>2016-04-04T14:42:46.549Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Project" scheme="https://1q86.github.io/categories/Project/"/>
+    
+    
+      <category term="Android" scheme="https://1q86.github.io/tags/Android/"/>
+    
+      <category term="Focus" scheme="https://1q86.github.io/tags/Focus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The 100th Day of Tete</title>
+    <link href="https://1q86.github.io/2015/04/04/The-100th-Day-of-Tete/"/>
+    <id>https://1q86.github.io/2015/04/04/The-100th-Day-of-Tete/</id>
+    <published>2015-04-04T14:12:00.000Z</published>
+    <updated>2016-04-04T13:56:27.692Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/Tete100Day.jpg&quot; alt=&quot;The 100th Day of Tete&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Today is The 100th Day of Tete.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/Tete100Day.jpg&quot; alt=&quot;The 100th Day of Tete&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Today is The 100th Day of Tete.&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="Family" scheme="https://1q86.github.io/categories/Family/"/>
+    
+    
+      <category term="Day" scheme="https://1q86.github.io/tags/Day/"/>
+    
+      <category term="Tete" scheme="https://1q86.github.io/tags/Tete/"/>
+    
+  </entry>
+  
+</feed>
